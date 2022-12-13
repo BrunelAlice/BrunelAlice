@@ -13,4 +13,4 @@ Otherwise, I am working on building a portfolio of **animated elements and anima
 Currently, I am diving into **GSAP** but my ultimate goal is to master **WebGL**, to provide immersive experiences. I also want to learn **Three.js** to explore coding in 3D, and **Animate.js** for intermediary animations.
 
 ## ⚡ About me
-I am a mum, a gamer and a slowpreneur. I believe that coding can be turned into art and that the creativity it offers should be used for a good purpose. I want to work on project that have a positive impact on the world and society.
+I am a mum, a gamer and a slowpreneur. I believe that coding can be turned into art and that the creativity it offers should be used for a good purpose. I want to work on projects that have positive impacts on the planet and on society.
