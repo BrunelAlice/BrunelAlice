@@ -2,7 +2,7 @@
 - 😄 Pronouns: she / her
 - 📫 How to reach me: https://www.linkedin.com/in/alicebrunel/
 
-I am a freelance creative web developer. 🙏🏽 My goal is to learn as much as I can and challenge myself to create beautiful and eye-pleasing websites and components. I am currently working with *JavaScript (React/Redux)*. I have a background in *UX design* and *graphic design*, and regarding code languages, I also learned *Ruby (RoR)* and *SQL* (PostgreSQL, MySQL, SQlite). Thank you for passing by!
+I am a freelance creative web developer. 🙏🏽 My goal is to learn as much as I can and challenge myself to create beautiful and eye-pleasing websites and components. I am currently working with *JavaScript (React/Redux)*. I have a background in **UX design** and **graphic design**, and regarding code languages, I also learned **Ruby (RoR)** and **SQL** (PostgreSQL, MySQL, SQlite). Thank you for passing by!
 
 ## 🔭 Projects I am working on
 At present, I had the chance to participate in a bootcamp with HyperionDev and to work on a **Hangman game**. I decided to go with a specific vintage inspired design, which I would like to improve and animate. The game logic is done though, you are welcome to have a look over here: https://github.com/BrunelAlice/hangman
