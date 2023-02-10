@@ -9,6 +9,8 @@ I had the chance to participate in a bootcamp with HyperionDev and I want to sho
 
 Otherwise, I am working on building a portfolio of **animated elements and animated websites**. I don't have much time to work on it though, as I am <ins>currently booked</ins> as a freelance developer.
 
+I lost access to my previous portfolio that you can access here : https://github.com/AliceBrunel
+
 ## 🌱 I’m currently learning ...
 Currently, I am working on a client project with **TypeScript** on React with **MongoDB**. I am also diving into **GSAP** but my ultimate goal is to master **WebGL**, to provide immersive experiences - this will take some times, I know... I also want to learn **Three.js** to explore coding in 3D, and **Animate.js** for intermediary animations.
 
