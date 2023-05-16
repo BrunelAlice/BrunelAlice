@@ -14,7 +14,7 @@ Otherwise, I am working on building a portfolio of **animated elements and anima
 I lost access to my previous portfolio that you can access here : https://github.com/AliceBrunel
 
 ## 🌱 I’m currently learning ...
-Currently, I am working on a client project with **TypeScript** on React with **MongoDB**, from which I learn a lot. I am also diving into **GSAP** but my ultimate goal is to master **WebGL**, to provide immersive experiences - this will take some times, I know... I also want to learn **Three.js** to explore coding in 3D, and **Animate.js** for intermediary animations.
+Currently, I am working on a client project with **TypeScript** on React with **MongoDB**, from which I learn a lot. I am also diving into **GSAP** but my ultimate goal is to master **WebGL**, to provide immersive experience. I also want to learn **Three.js** to explore coding in 3D, and **Animate.js** for intermediary animations.
 
 ## ⚡ About me
 I live in UK but originally from France, a mum and gamer, a passionate about good design and creative coding. Making websites that are pretty AND usable is a difficult goal to attain, but it is the one I am working for.
