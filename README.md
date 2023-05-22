@@ -4,7 +4,7 @@
 
 I am currently working with **TypeScript and MobX** for **Dotter.Science**. [Go say "Hi"!](https://www.dotter.science/)
 
-I have a background in **UX design** and **graphic design** and I have done several trainings in Agile Project Management. My current stack is composed of **TypeScript, React, Vanilla JavaScript**, with **MobX** and **Redux** as state manager. 
+I have a background in **UX design** and **graphic design** and I have done several trainings in Agile Project Management. My current stack is composed of **Mongo DB, React/TypeScript, NodeJS**, with **MobX** and **Redux** as states manager. I work with **CSS preprocessor (Sass)**.
 
 ## 🔭 Projects I am working on
 Obviously, I am working on my clients projects, but I also would like to showcase my **Hangman game**. I decided to go with a specific vintage inspired design, which I would like to improve and animate. The game logic is done, you are welcome to have a look over here: https://github.com/BrunelAlice/hangman
