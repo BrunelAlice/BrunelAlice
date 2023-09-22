@@ -8,14 +8,12 @@ I am currently working with **TypeScript and MobX** for **Dotter.Science**. [Go 
 I have a background in **UX design** and **graphic design** and I have done several trainings in Agile Project Management. My current stack is composed of **React/TypeScript, Mongo DB, NodeJS**, with **MobX** and **Redux** as states manager. I work with **CSS preprocessor (Sass)**.
 
 ## 🔭 Projects I am working on
-I am working on a big project for my client that I cannot share here, so I thought I would showcase my **Hangman game**. I decided to go with a specific vintage inspired design, which I would like to improve and animate. The game logic is done, you are welcome to have a look over here: https://github.com/BrunelAlice/hangman
-
-Otherwise, I am working on building a portfolio of **animated elements and animated websites**. I don't have much time to work on it though, as I am <ins>currently booked</ins> as a freelance developer.
+I am working on a big project that I cannot share here, so I thought I would showcase my **Hangman game**. I decided to go with a specific vintage inspired design, which I would like to improve and animate. The game logic is done, you are welcome to have a look over here: https://github.com/BrunelAlice/hangman
 
 I lost access to my previous portfolio that you can access here : https://github.com/AliceBrunel
 
 ## 🌱 I’m currently learning ...
-Currently, I am working on a client project with **TypeScript** on React with **MongoDB**, from which I learn a lot. I am also diving into **GSAP** but my ultimate goal is to master **WebGL**, to provide immersive experience. I also want to learn **Three.js** to explore coding in 3D, and **Animate.js** for intermediary animations.
+Currently, I am working on a client project with **TypeScript** on React with **MongoDB**, from which I learn a lot. I am following the CS50 course, which I will talk about in my soon to come tech blog.
 
 ## ⚡ About me
-I live in UK but originally from France, a mum and gamer, a passionate about good design and creative coding. Making websites that are pretty AND usable is a difficult goal to attain, but it is the one I am working for.
+I live in London in the UK but I'm originally from Paris, France, and I am a mum 👶🏽 and a gamer 🎮. 
