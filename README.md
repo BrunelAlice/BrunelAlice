@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Alice, freelance creative developer
 - 😄 Pronouns: she / her
 - 📫 How to reach me: https://www.linkedin.com/in/alicebrunel/
+- Currently fully booked! 🎉
 
 I am currently working with **TypeScript and MobX** for **Dotter.Science**. [Go say "Hi"!](https://www.dotter.science/)
 
